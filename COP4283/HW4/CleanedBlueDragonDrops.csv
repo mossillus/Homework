@@ -30,7 +30,7 @@ Coins,Coins,11.0,5/128,0.0390625,11.0,Poor Drop,0.013301088270858524
 Coins,Coins,440.0,1/128,0.0078125,440.0,Mid Drop,0.532043530834341
 Adamantite Ore,Other,1.0,3/128,0.0234375,639.0,Mid Drop,0.8140127388535032
 Bass,Other,1.0,3/128,0.0234375,146.0,Poor Drop,0.1859872611464968
-Nothing,Gem Drop Table,,1/51.29,0.019496977968414896,0,Poor Drop,
+Nothing,Gem Drop Table,,1/51.29,0.019496977968414896,0,Poor Drop,0
 Uncut Sapphire,Gem Drop Table,1.0,1/102.4,0.009765625,213.0,Poor Drop,0.0015281962978906586
 Uncut Emerald,Gem Drop Table,1.0,1/204.8,0.0048828125,443.0,Mid Drop,0.003178361314392309
 Uncut Ruby,Gem Drop Table,1.0,1/409.6,0.00244140625,1285.0,Better Drop,0.009219400200889655
@@ -45,7 +45,8 @@ Shield Left Half,Gem Drop Table,1.0,"1/104,857.6",9.5367431640625e-06,64476.0,Pr
 Dragon Spear,Gem Drop Table,1.0,"1/139,810.13",7.152557543577136e-06,37181.0,Pricey Drop,0.26675993686325156
 Ensouled Dragon Head,Tertiary,1.0,1/50,0.02,2879.0,Pricey Drop,0.49230506155950754
 Scaly Blue Dragonhide,Tertiary,1.0,1/50,0.02,481.0,Mid Drop,0.08225034199726403
-Brimstone Key,Tertiary,1.0,1/98,0.01020408163265306,0,Untradeable,
+Brimstone Key,Tertiary,1.0,1/98,0.01020408163265306,0,Untradeable,0
 Frozen Tear,Tertiary,8.0,1/100,0.01,2488.0,Pricey Drop,0.42544459644322846
-Tooth Half Of Key (Moon Key),Tertiary,1.0,1/636,0.0015723270440251573,0,Untradeable,
-Clue Scroll (Hard),Tertiary,1.0,1/128,0.0078125,0,Untradeable,
+Tooth Half Of Key (Moon Key),Tertiary,1.0,1/636,0.0015723270440251573,0,Untradeable,0
+Clue Scroll (Hard),Tertiary,1.0,1/128,0.0078125,0,Untradeable,0
+

@@ -1,51 +1,51 @@
-Item,Table Title,Quantity,Rarity,Rarity Probability,Price,Price Tiered,Prices Share in Table
-Blue Dragonhide,Guaranteed,1.0,1,1.0,1462.0,Better Drop,0.43344203972724576
-Dragon Bones,Guaranteed,1.0,1,1.0,1911.0,Better Drop,0.5665579602727542
-Steel Platelegs,Weapons And Armour,1.0,4/128,0.03125,388.0,Mid Drop,0.04757817290006131
-Mithril Axe,Weapons And Armour,1.0,3/128,0.0234375,172.0,Poor Drop,0.021091354996934396
-Steel Battleaxe,Weapons And Armour,1.0,3/128,0.0234375,200.0,Poor Drop,0.024524831391784182
-Mithril Spear,Weapons And Armour,1.0,2/128,0.015625,236.0,Poor Drop,0.028939301042305333
-Adamant Full Helm,Weapons And Armour,1.0,1/128,0.0078125,1778.0,Better Drop,0.21802575107296138
-Mithril Kiteshield,Weapons And Armour,1.0,1/128,0.0078125,1060.0,Better Drop,0.12998160637645617
-Rune Dagger,Weapons And Armour,1.0,1/128,0.0078125,4321.0,Pricey Drop,0.5298589822194972
-Water Rune,Runes,75.0,8/128,0.0625,375.0,Mid Drop,0.15250101667344448
-Nature Rune,Runes,15.0,5/128,0.0390625,1545.0,Better Drop,0.6283041886945913
-Law Rune,Runes,3.0,3/128,0.0234375,354.0,Mid Drop,0.1439609597397316
-Fire Rune,Runes,37.0,1/128,0.0078125,185.0,Poor Drop,0.07523383489223262
-Grimy Guam Leaf,Herbs,1.0,1/34.1,0.029325513196480937,326.0,Mid Drop,0.015439261188728392
-Grimy Marrentill,Herbs,1.0,1/45.5,0.02197802197802198,258.0,Poor Drop,0.012218801799668482
-Grimy Tarromin,Herbs,1.0,1/60.7,0.016474464579901153,286.0,Mid Drop,0.013544873312810799
-Grimy Harralander,Herbs,1.0,1/78,0.01282051282051282,488.0,Mid Drop,0.02311153208619465
-Grimy Ranarr Weed,Herbs,1.0,1/99.3,0.010070493454179255,6088.0,Pricey Drop,0.28832583471465784
-Grimy Irit Leaf,Herbs,1.0,1/136.5,0.007326007326007326,1896.0,Better Drop,0.08979398531849396
-Grimy Avantoe,Herbs,1.0,1/182,0.005494505494505495,2346.0,Better Drop,0.11110584892256689
-Grimy Kwuarm,Herbs,1.0,1/218.5,0.004576659038901602,2423.0,Pricey Drop,0.11475254558370826
-Grimy Cadantine,Herbs,1.0,1/273.1,0.0036616623947272058,3024.0,Pricey Drop,0.1432157234193701
-Grimy Lantadyme,Herbs,1.0,1/364.1,0.0027464982147761604,1603.0,Better Drop,0.07591759412739758
-Grimy Dwarf Weed,Herbs,1.0,1/364.1,0.0027464982147761604,2377.0,Better Drop,0.11257399952640303
-Coins,Coins,44.0,29/128,0.2265625,44.0,Poor Drop,0.053204353083434096
-Coins,Coins,132.0,25/128,0.1953125,132.0,Poor Drop,0.1596130592503023
-Coins,Coins,200.0,10/128,0.078125,200.0,Poor Drop,0.2418379685610641
-Coins,Coins,11.0,5/128,0.0390625,11.0,Poor Drop,0.013301088270858524
-Coins,Coins,440.0,1/128,0.0078125,440.0,Mid Drop,0.532043530834341
-Adamantite Ore,Other,1.0,3/128,0.0234375,639.0,Mid Drop,0.8140127388535032
-Bass,Other,1.0,3/128,0.0234375,146.0,Poor Drop,0.1859872611464968
-Nothing,Gem Drop Table,,1/51.29,0.019496977968414896,0,Poor Drop,0
-Uncut Sapphire,Gem Drop Table,1.0,1/102.4,0.009765625,213.0,Poor Drop,0.0015281962978906586
-Uncut Emerald,Gem Drop Table,1.0,1/204.8,0.0048828125,443.0,Mid Drop,0.003178361314392309
-Uncut Ruby,Gem Drop Table,1.0,1/409.6,0.00244140625,1285.0,Better Drop,0.009219400200889655
-Chaos Talisman,Gem Drop Table,1.0,"1/1,092.27",0.0009155245497908026,330.0,Mid Drop,0.0023676280671545416
-Nature Talisman,Gem Drop Table,1.0,"1/1,092.27",0.0009155245497908026,256.0,Poor Drop,0.001836705409671402
-Uncut Diamond,Gem Drop Table,1.0,"1/1,638.4",0.0006103515625,2450.0,Pricey Drop,0.01757784474099584
-Rune Javelin,Gem Drop Table,5.0,"1/3,276.8",0.00030517578125,660.0,Better Drop,0.004735256134309083
-Loop Half Of Key,Gem Drop Table,1.0,"1/3,276.8",0.00030517578125,10076.0,Pricey Drop,0.07229157698378534
-Tooth Half Of Key,Gem Drop Table,1.0,"1/3,276.8",0.00030517578125,10361.0,Pricey Drop,0.07433634667814608
-Rune Spear,Gem Drop Table,1.0,"1/52,428.8",1.9073486328125e-05,11649.0,Pricey Drop,0.08357727077055532
-Shield Left Half,Gem Drop Table,1.0,"1/104,857.6",9.5367431640625e-06,64476.0,Pricey Drop,0.46259147653895827
-Dragon Spear,Gem Drop Table,1.0,"1/139,810.13",7.152557543577136e-06,37181.0,Pricey Drop,0.26675993686325156
-Ensouled Dragon Head,Tertiary,1.0,1/50,0.02,2879.0,Pricey Drop,0.49230506155950754
-Scaly Blue Dragonhide,Tertiary,1.0,1/50,0.02,481.0,Mid Drop,0.08225034199726403
-Brimstone Key,Tertiary,1.0,1/98,0.01020408163265306,0,Untradeable,0
-Frozen Tear,Tertiary,8.0,1/100,0.01,2488.0,Pricey Drop,0.42544459644322846
-Tooth Half Of Key (Moon Key),Tertiary,1.0,1/636,0.0015723270440251573,0,Untradeable,0
-Clue Scroll (Hard),Tertiary,1.0,1/128,0.0078125,0,Untradeable,0
+Item,Table Title,Quantity,Rarity,Rarity Probability,Rarity Tier,Price,Price Tiered,Prices Share in Table
+Blue Dragonhide,Guaranteed,1.0,1,1.0,Common,1462.0,Better Drop,0.4334420397272457
+Dragon Bones,Guaranteed,1.0,1,1.0,Common,1911.0,Better Drop,0.5665579602727542
+Steel Platelegs,Weapons And Armour,1.0,4/128,0.03125,Uncommon,388.0,Mid Drop,0.0475781729000613
+Mithril Axe,Weapons And Armour,1.0,3/128,0.0234375,Rare,172.0,Poor Drop,0.0210913549969343
+Steel Battleaxe,Weapons And Armour,1.0,3/128,0.0234375,Rare,200.0,Poor Drop,0.0245248313917841
+Mithril Spear,Weapons And Armour,1.0,2/128,0.015625,Rare,236.0,Poor Drop,0.0289393010423053
+Adamant Full Helm,Weapons And Armour,1.0,1/128,0.0078125,Very rare,1778.0,Better Drop,0.2180257510729613
+Mithril Kiteshield,Weapons And Armour,1.0,1/128,0.0078125,Very rare,1060.0,Better Drop,0.1299816063764561
+Rune Dagger,Weapons And Armour,1.0,1/128,0.0078125,Very rare,4321.0,Pricey Drop,0.5298589822194972
+Water Rune,Runes,75.0,8/128,0.0625,Uncommon,375.0,Mid Drop,0.1525010166734444
+Nature Rune,Runes,15.0,5/128,0.0390625,Uncommon,1545.0,Better Drop,0.6283041886945913
+Law Rune,Runes,3.0,3/128,0.0234375,Rare,354.0,Mid Drop,0.1439609597397316
+Fire Rune,Runes,37.0,1/128,0.0078125,Very rare,185.0,Poor Drop,0.0752338348922326
+Grimy Guam Leaf,Herbs,1.0,1/34.1,0.0293255131964809,Rare,326.0,Mid Drop,0.0154392611887283
+Grimy Marrentill,Herbs,1.0,1/45.5,0.0219780219780219,Rare,258.0,Poor Drop,0.0122188017996684
+Grimy Tarromin,Herbs,1.0,1/60.7,0.0164744645799011,Rare,286.0,Mid Drop,0.0135448733128107
+Grimy Harralander,Herbs,1.0,1/78,0.0128205128205128,Rare,488.0,Mid Drop,0.0231115320861946
+Grimy Ranarr Weed,Herbs,1.0,1/99.3,0.0100704934541792,Rare,6088.0,Pricey Drop,0.2883258347146578
+Grimy Irit Leaf,Herbs,1.0,1/136.5,0.0073260073260073,Very rare,1896.0,Better Drop,0.0897939853184939
+Grimy Avantoe,Herbs,1.0,1/182,0.0054945054945054,Very rare,2346.0,Better Drop,0.1111058489225668
+Grimy Kwuarm,Herbs,1.0,1/218.5,0.0045766590389016,Very rare,2423.0,Pricey Drop,0.1147525455837082
+Grimy Cadantine,Herbs,1.0,1/273.1,0.0036616623947272,Very rare,3024.0,Pricey Drop,0.1432157234193701
+Grimy Lantadyme,Herbs,1.0,1/364.1,0.0027464982147761,Very rare,1603.0,Better Drop,0.0759175941273975
+Grimy Dwarf Weed,Herbs,1.0,1/364.1,0.0027464982147761,Very rare,2377.0,Better Drop,0.112573999526403
+Coins,Coins,44.0,29/128,0.2265625,Common,44.0,Poor Drop,0.053204353083434
+Coins,Coins,132.0,25/128,0.1953125,Common,132.0,Poor Drop,0.1596130592503023
+Coins,Coins,200.0,10/128,0.078125,Uncommon,200.0,Poor Drop,0.2418379685610641
+Coins,Coins,11.0,5/128,0.0390625,Uncommon,11.0,Poor Drop,0.0133010882708585
+Coins,Coins,440.0,1/128,0.0078125,Very rare,440.0,Mid Drop,0.532043530834341
+Adamantite Ore,Other,1.0,3/128,0.0234375,Rare,639.0,Mid Drop,0.8140127388535032
+Bass,Other,1.0,3/128,0.0234375,Rare,146.0,Poor Drop,0.1859872611464968
+Nothing,Gem Drop Table,,1/51.29,0.0194969779684148,Rare,0.0,Poor Drop,0.0
+Uncut Sapphire,Gem Drop Table,1.0,1/102.4,0.009765625,Very rare,213.0,Poor Drop,0.0015281962978906
+Uncut Emerald,Gem Drop Table,1.0,1/204.8,0.0048828125,Very rare,443.0,Mid Drop,0.0031783613143923
+Uncut Ruby,Gem Drop Table,1.0,1/409.6,0.00244140625,Very rare,1285.0,Better Drop,0.0092194002008896
+Chaos Talisman,Gem Drop Table,1.0,"1/1,092.27",0.0009155245497908,Very rare,330.0,Mid Drop,0.0023676280671545
+Nature Talisman,Gem Drop Table,1.0,"1/1,092.27",0.0009155245497908,Very rare,256.0,Poor Drop,0.0018367054096714
+Uncut Diamond,Gem Drop Table,1.0,"1/1,638.4",0.0006103515625,Very rare,2450.0,Pricey Drop,0.0175778447409958
+Rune Javelin,Gem Drop Table,5.0,"1/3,276.8",0.00030517578125,Very rare,660.0,Better Drop,0.004735256134309
+Loop Half Of Key,Gem Drop Table,1.0,"1/3,276.8",0.00030517578125,Very rare,10076.0,Pricey Drop,0.0722915769837853
+Tooth Half Of Key,Gem Drop Table,1.0,"1/3,276.8",0.00030517578125,Very rare,10361.0,Pricey Drop,0.074336346678146
+Rune Spear,Gem Drop Table,1.0,"1/52,428.8",1.9073486328125e-05,Very rare,11649.0,Pricey Drop,0.0835772707705553
+Shield Left Half,Gem Drop Table,1.0,"1/104,857.6",9.5367431640625e-06,Very rare,64476.0,Pricey Drop,0.4625914765389582
+Dragon Spear,Gem Drop Table,1.0,"1/139,810.13",7.152557543577136e-06,Very rare,37181.0,Pricey Drop,0.2667599368632515
+Ensouled Dragon Head,Tertiary,1.0,1/50,0.02,Rare,2879.0,Pricey Drop,0.4923050615595075
+Scaly Blue Dragonhide,Tertiary,1.0,1/50,0.02,Rare,481.0,Mid Drop,0.082250341997264
+Brimstone Key,Tertiary,1.0,1/98,0.010204081632653,Rare,0.0,Untradeable,0.0
+Frozen Tear,Tertiary,8.0,1/100,0.01,Very rare,2488.0,Pricey Drop,0.4254445964432284
+Tooth Half Of Key (Moon Key),Tertiary,1.0,1/636,0.0015723270440251,Very rare,0.0,Untradeable,0.0
+Clue Scroll (Hard),Tertiary,1.0,1/128,0.0078125,Very rare,0.0,Untradeable,0.0

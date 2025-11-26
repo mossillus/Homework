@@ -1,0 +1,124 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Blue Dragon Item Drops from Old School Runescape",
+  "data": {
+    "url": "https://raw.githubusercontent.com/mossillus/Homework/refs/heads/main/COP4283/HW4/Cleaned%20Blue%20Dragon%20Drops",
+    "format": { "type": "csv" }
+  },
+
+  "params": [
+    {
+      "name": "rarityTierParam",
+      "value": "All",
+      "bind": {
+        "input": "select",
+        "options": ["All", "Common", "Uncommon", "Rare", "Very rare"],
+        "labels": [
+          "All Rarity Tiers",
+          "Common",
+          "Uncommon",
+          "Rare",
+          "Very Rare"
+        ]
+      }
+    }
+  ],
+
+  "vconcat": [
+    {
+      "mark": "bar",
+      "params": [
+        {
+          "name": "tableBrush",
+          "select": {
+            "type": "interval",
+            "encodings": ["x"]
+          }
+        }
+      ],
+      "transform": [
+        {
+          "filter": "rarityTierParam == 'All' || datum['Rarity Tier'] == rarityTierParam"
+        }
+      ],
+      "encoding": {
+        "x": {
+          "field": "Table Title",
+          "type": "nominal",
+          "title": "Drop Table"
+        },
+        "y": {
+          "aggregate": "count",
+          "type": "quantitative",
+          "title": "Number of Drops"
+        },
+        "color": {
+          "field": "Price Tiered",
+          "type": "nominal",
+          "title": "Price Tier"
+        },
+        "order": {
+          "field": "Price Tiered",
+          "sort": "ascending"
+        },
+        "tooltip": [
+          { "field": "Table Title", "type": "nominal", "title": "Drop Table" },
+          { "field": "Price Tiered", "type": "nominal", "title": "Price Tier" },
+          { "field": "Rarity Tier", "type": "nominal", "title": "Rarity Tier" },
+          {
+            "aggregate": "count",
+            "type": "quantitative",
+            "title": "Number of Drops"
+          }
+        ]
+      }
+    },
+
+    {
+      "mark": "bar",
+      "transform": [
+        {
+          "filter": "rarityTierParam == 'All' || datum['Rarity Tier'] == rarityTierParam"
+        },
+        { "filter": { "param": "tableBrush" } }
+      ],
+      "encoding": {
+        "x": {
+          "field": "Item",
+          "type": "nominal",
+          "title": "Item",
+          "sort": "-y"
+        },
+        "y": {
+          "aggregate": "count",
+          "type": "quantitative",
+          "title": "Number of Drops"
+        },
+        "color": {
+          "field": "Rarity Tier",
+          "type": "nominal",
+          "title": "Rarity Tier"
+        },
+        "tooltip": [
+          { "field": "Item", "type": "nominal", "title": "Item" },
+          { "field": "Table Title", "type": "nominal", "title": "Drop Table" },
+          { "field": "Rarity Tier", "type": "nominal", "title": "Rarity Tier" },
+          { "field": "Price Tiered", "type": "nominal", "title": "Price Tier" },
+          {
+            "field": "Rarity Probability",
+            "type": "quantitative",
+            "title": "Rarity Probability"
+          },
+          { "field": "Quantity", "type": "quantitative", "title": "Quantity" },
+          { "field": "Price", "type": "quantitative", "title": "GE Price" },
+          {
+            "field": "Prices Share in Table",
+            "type": "quantitative",
+            "title": "Price Share in Table"
+          }
+        ]
+      }
+    }
+  ]
+}
+

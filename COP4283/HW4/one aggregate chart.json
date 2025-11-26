@@ -1,0 +1,36 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Total price by table and price tier (uses aggregate transform)",
+  "data": {
+    "url": "https://raw.githubusercontent.com/mossillus/Homework/refs/heads/main/COP4283/HW4/Cleaned%20Blue%20Dragon%20Drops",
+    "format": {"type": "csv"}
+  },
+  "transform": [
+    {
+      "aggregate": [
+        { "op": "mean", "field": "Price", "as": "AvgPrice" },
+        { "op": "mean", "field": "Rarity Probability", "as": "AvgRarityProb" }
+      ],
+      "groupby": ["Table Title"]
+    }
+  ],
+  "mark": "bar",
+  "encoding": {
+    "x": {
+      "field": "Table Title",
+      "type": "nominal",
+      "title": "Drop Table",
+      "axis": {"labelAngle": -45}
+    },
+    "y": {
+      "field": "AvgPrice",
+      "type": "quantitative",
+      "title": "Average Item Price (gp)"
+    },
+    "tooltip": [
+      {"field": "Table Title", "type": "nominal", "title": "Drop Table"},
+      {"field": "AvgPrice", "type": "quantitative", "title": "Average Price (gp)"},
+      {"field": "AvgRarityProb", "type": "quantitative", "title": "Average Rarity Probability"}
+    ]
+  }
+}
